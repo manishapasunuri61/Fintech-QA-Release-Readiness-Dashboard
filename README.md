@@ -9,10 +9,12 @@ This project analyzes 1,038 defects across 12 sprints to identify release risk d
 **Business Problem:**
 
 **Challenges:**
+
     • Increasing defect leakage into production
 	• Declining Payment Gateway fix rates
 	• Growing open defect backlog
 	• Low visibility into release risk across teams
+
 **Business Impact:**
 
 	• Failed customer transactions
