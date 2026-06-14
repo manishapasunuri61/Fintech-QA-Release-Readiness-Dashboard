@@ -1,4 +1,4 @@
-**Fintech QA Intelligence & Release Readiness Dashboard**
+**Fintech QA Intelligence & Release Readiness Analysis**
 
 **Project Overview**
 A high-growth Fintech Payments company experienced increasing production defects due to fragmented QA monitoring across Payments, KYC, and Rewards teams.
