@@ -37,10 +37,15 @@ https://public.tableau.com/app/profile/pasunuri.manisha/viz/Fintech_QA_Release_R
 **Key KPIs:**
 
 Release Readiness Score:	Measures overall release health
+
 Fix Rate:	Percentage of defects fixed before release
+
 Open Defect Rate:	Percentage of unresolved defects
+
 Critical Defect Rate:	Percentage of critical defects
+
 Test Coverage:	Testing coverage across modules
+
 Defect Leakage Rate:	Defects escaping into production
 
 **Executive Summary:**
