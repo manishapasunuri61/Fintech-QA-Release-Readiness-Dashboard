@@ -1,19 +1,20 @@
 **Fintech QA Intelligence & Release Readiness Analysis**
 
-**Project Overview**
+
+**Project Overview:**
 
 A high-growth Fintech Payments company experienced increasing production defects due to fragmented QA monitoring across Payments, KYC, and Rewards teams.
 This project analyzes 1,038 defects across 12 sprints to identify release risk drivers and build a Release Readiness framework supporting Go / Caution / No-Go decisions.
 
-**Business Problem**
+**Business Problem:**
 
-**Challenges**
+**Challenges:**
 
 	• Increasing defect leakage into production
 	• Declining Payment Gateway fix rates
 	• Growing open defect backlog
 	• Low visibility into release risk across teams
-**Business Impact**
+**Business Impact:**
 
 	• Failed customer transactions
 	• Increased operational support effort
@@ -24,7 +25,7 @@ This project analyzes 1,038 defects across 12 sprints to identify release risk d
 
 https://public.tableau.com/app/profile/pasunuri.manisha/viz/Fintech_QA_Release_Readiness_Dashboard/Executive_Summary
 
-**Key Objectives**
+**Key Objectives:**
 
 	• Centralize QA metrics into a single dashboard
 	• Identify high-risk teams and modules
@@ -32,7 +33,7 @@ https://public.tableau.com/app/profile/pasunuri.manisha/viz/Fintech_QA_Release_R
 	• Support release approval decisions
 	• Improve quality governance
 
-**Key KPIs**
+**Key KPIs:**
 
 Release Readiness Score:	Measures overall release health
 Fix Rate:	Percentage of defects fixed before release
@@ -41,7 +42,7 @@ Critical Defect Rate:	Percentage of critical defects
 Test Coverage:	Testing coverage across modules
 Defect Leakage Rate:	Defects escaping into production
 
-**Executive Summary**
+**Executive Summary:**
 
 	• Release Readiness Score declined from 81.87 to 71.27
 	• Defect Leakage increased from 9.84% to 45.95%
@@ -51,7 +52,7 @@ Defect Leakage Rate:	Defects escaping into production
 	• Sprint 12 remained in the Caution zone
 	• Analysis identified a strong inverse relationship between Release Readiness and Defect Leakage
 
-**Key Findings**
+**Key Findings:**
 
 1. Release Health Is Declining
 Release Readiness Scores fell steadily across recent sprints, indicating increasing release risk.
@@ -74,7 +75,7 @@ Several modules remained below 55% coverage, increasing the likelihood of escape
 7. Release Readiness Predicts Production Quality
 Higher readiness scores consistently aligned with lower defect leakage rates.
 
-**Recommendations**
+**Recommendations:**
 
 	• Use Release Readiness Score as the primary release approval metric
 	• Increase QA focus on the Payments team
@@ -83,7 +84,7 @@ Higher readiness scores consistently aligned with lower defect leakage rates.
 	• Investigate quality degradation beginning around Sprint 6
 	• Introduce leakage-based release monitoring
 
-**Expected Business Outcomes**
+**Expected Business Outcomes:**
 
 	• Reduce defect leakage by at least 25%
 	• Improve release readiness scores above 80
@@ -92,7 +93,7 @@ Higher readiness scores consistently aligned with lower defect leakage rates.
 	• Increase confidence in release decisions
 
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 	• PostgreSQL (SQL)
 	• Python
