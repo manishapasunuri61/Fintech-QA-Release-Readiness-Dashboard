@@ -8,19 +8,16 @@ This project analyzes 1,038 defects across 12 sprints to identify release risk d
 
 **Business Problem:**
 
-**Challenges:**
+A high-growth Fintech Payments company experienced increasing production defects due to fragmented QA monitoring across Payments, KYC, and Rewards teams.
 
-    • Increasing defect leakage into production
-	• Declining Payment Gateway fix rates
-	• Growing open defect backlog
-	• Low visibility into release risk across teams
+Key challenges included:
 
-**Business Impact:**
+Defect leakage rising from 4% to 15%
+Payment Gateway fix rates declining by 20%
+Increasing open defect backlog
+Limited visibility into release risk
 
-	• Failed customer transactions
-	• Increased operational support effort
-	• Reduced customer trust
-	• Potential compliance risks
+This project builds a centralized QA Intelligence Dashboard and Release Readiness framework to identify high-risk modules and support Go / Caution / No-Go release decisions.
 
 **Dashboard:**
 
