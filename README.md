@@ -10,7 +10,7 @@ This project analyzes 1,038 defects across 12 sprints to identify release risk d
 
 A high-growth Fintech Payments company experienced increasing production defects due to fragmented QA monitoring across Payments, KYC, and Rewards teams.
 
-Key challenges included:
+**Key challenges included:**
 
 Defect leakage rising from 4% to 15%
 Payment Gateway fix rates declining by 20%
